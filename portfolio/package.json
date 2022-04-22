@@ -9,7 +9,7 @@
     "license": "ISC",
     "dependencies": {
         "firebase-tools": "^6.5.3",
-        "fullpage.js": "^3.0.4"
+        "fullpage.js": "^4.0.5"
     },
     "devDependencies": {
         "browserify": "^16.2.3"
